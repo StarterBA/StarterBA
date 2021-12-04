@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StarterBA
 - 👀 I’m interested in ...C/Fortran/Python, parallel programming, machine learning
-- 🌱 I’m currently learning ...Physics
+- 🌱 I’m currently learning ...Physics, Computational methods
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...by email
 
